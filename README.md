@@ -1,4 +1,4 @@
-## Low-level autonomous control and tracking of quadrotor using reinforcement learning
+## Low-level autonomous control and tracking of quadrotor using reinforcement learning - Proximal Policy Optimization
 
 #
 
